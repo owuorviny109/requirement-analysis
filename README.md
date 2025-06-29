@@ -101,8 +101,6 @@ Below is the use case diagram for the booking management system (Airbnb clone), 
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
-![alx-booking-uc](https://github.com/user-attachments/assets/9cec5946-aa2b-4dbe-9a4b-86a06696215d)
-
 ## Acceptance Criteria
 
 Acceptance Criteria are explicit, measurable conditions that a software product must satisfy to be accepted by stakeholders. They define the boundaries of a user story or requirement and serve as the basis for validation, testing, and sign-off. Properly defined acceptance criteria ensure that developers, testers, and stakeholders share a common understanding of what constitutes a completed and acceptable feature.
