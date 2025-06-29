@@ -101,8 +101,7 @@ Below is the use case diagram for the booking management system (Airbnb clone), 
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
-
-
+![alx-booking-uc](https://github.com/user-attachments/assets/9cec5946-aa2b-4dbe-9a4b-86a06696215d)
 
 ## Acceptance Criteria
 
