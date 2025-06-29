@@ -1,0 +1,2 @@
+# Requirement Analysis in Software Development
+This repository contains a structured and standards-compliant requirement analysis for a Booking Management System. It includes formal documentation of functional and non-functional requirements, system use cases, acceptance criteria, and supporting UML diagrams. The objective is to define a clear, verifiable blueprint that supports the software design and implementation phases in accordance with SDLC best practices.
